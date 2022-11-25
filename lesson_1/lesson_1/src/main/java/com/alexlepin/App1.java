@@ -2,8 +2,6 @@ package com.alexlepin;
 
 import java.util.Scanner;
 
-import javax.naming.NamingEnumeration;
-
 // Вычислить n-ое треугольного число(сумма чисел от 1 до n), n! (произведение чисел от 1 до n)
 public class App1 {
 
