@@ -5,7 +5,6 @@ import java.util.Arrays;
 public class App3 {
     public static void main(String args[]) {
         int arr[] = { 12, 11, 13, 5, 6, 7 };
-        int n = arr.length;
 
         heapSort(arr);
 
